@@ -1,0 +1,42 @@
+[
+    {
+        "description": "Code follows coding standards and style guidelines",
+        "completed": false
+    },
+    {
+        "description": "Code is well-commented and easy to understand",
+        "completed": false
+    },
+    {
+        "description": "Code is modular, reusable, and maintainable",
+        "completed": false
+    },
+    {
+        "description": "Code is properly tested, including unit tests and integration tests",
+        "completed": false
+    },
+    {
+        "description": "Code handles edge cases and error conditions gracefully",
+        "completed": false
+    },
+    {
+        "description": "Code adheres to security best practices and is free from vulnerabilities",
+        "completed": false
+    },
+    {
+        "description": "Code has been reviewed for performance optimizations",
+        "completed": false
+    },
+    {
+        "description": "Code documentation is up-to-date and comprehensive",
+        "completed": false
+    },
+    {
+        "description": "Code changes have been reviewed for impact on existing functionality",
+        "completed": false
+    },
+    {
+        "description": "Code changes have been reviewed for backward compatibility",
+        "completed": false
+    }
+]
